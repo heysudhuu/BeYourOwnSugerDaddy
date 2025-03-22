@@ -18,7 +18,7 @@ Just For a Fun.
 
 
 
-   **This Contain Only for EduCation Purpose Dn't Harm Your only Harm your friends Laptop or Clg..............................**
+   **This content is intended solely for educational purposes. It should not harm your PC, but may potentially harm your friend's laptop or college computer...............................**
 
 
   ## Fixing Accidental Shutdown Command in Startup
@@ -57,14 +57,12 @@ C:\Users<YourUsername>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Sta
 
    The startup folder is usually located at:
 
-Copy
-C:\Users\<YourUsername>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-Use the del command to delete the problematic file:
-
-Copy
-del <filename>
-Restart your computer.
+         C:\Users\<YourUsername>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+   Use the del command to delete the problematic file:
+   
+        del <filename>
+4.Restart your computer.
 
 
-4.The startup folder is usually located at:
+
 
