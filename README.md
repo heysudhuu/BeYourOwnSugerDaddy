@@ -1,8 +1,12 @@
 # BeYourOwnSugerDaddy
 Just For a Fun.
 ## How to Install This File 
-1. Download the SugerBae File in Your PC/Laptop.
-2. Start This File As a Startup App.
+1. Download the Shutdown File in Your PC/Laptop.
+2. Click Win+R 
+3. Write shell:startup Press Enter
+4. Copy the shutdown file and paste it into the startup folder. 
+5. Restart Your PC/Laptop 
+
 
 
 
